@@ -9,9 +9,10 @@
 Compare with the similar faces and with same object having different scene
 
 1. compare IU and the other people
+
 2. compare David scenes
 
-
+   
 
 ## parameter
 
@@ -54,11 +55,24 @@ Compare with the similar faces and with same object having different scene
    
 
 4. David and David
+   
    - matching keypoint : 8
 
 ![matching_images_3](README.assets/matching_images_3.jpg)
 
 
+
+5. find IU in people
+
+   - matchin keypoint : 5
+
+     ![](README.assets/matching_images_4.jpg)
+
+     - Origin right image (many people)
+
+     ![](README.assets/pic2.JPG)
+
+     
 
 ### **Analysis**
 
