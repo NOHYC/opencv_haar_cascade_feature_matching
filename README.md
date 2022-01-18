@@ -58,7 +58,7 @@ Compare with the similar faces and with same object having different scene
    
    - matching keypoint : 8
 
-![matching_images_3](README.assets/matching_images_3.jpg)
+     ![matching_images_3](README.assets/matching_images_3.jpg)
 
 
 
